@@ -2,7 +2,7 @@
 
 WatWays is an Android application designed to help students at the University of Waterloo find the shortest indoor paths around campus. This is especially useful during the cold winter months or on rainy days when walking outside is less desirable. WatWays is a successor to the previously popular WatisRain app, which has not been updated since 2016.
 
-This is my first time undertaking a public project with multiple contributors, and I am happy to learn from the active UWaterloo community. This project is currently a work in progress, so keep an eye out for updates!
+This is my first time undertaking a public project with multiple contributors, and I am happy to learn from the active UWaterloo community. This project is currently a work in progress, so keep an eye out for updates! Have a look at the Wiki for updates!
 
 ## Features
 
