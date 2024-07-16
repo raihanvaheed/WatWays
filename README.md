@@ -1,8 +1,8 @@
 # WatWays
 
-WatWays is an Android application designed to help students at the University of Waterloo find the shortest indoor paths around campus. This is especially useful during the cold winter months or on rainy days when walking outside is less desirable. WatWays is a successor to the previously popular WatisRain app, which has not been updated since 2016. 
+WatWays is an Android application designed to help students at the University of Waterloo find the shortest indoor paths around campus. This is especially useful during the cold winter months or on rainy days when walking outside is less desirable. WatWays is a successor to the previously popular WatisRain app, which has not been updated since 2016.
 
-This is currently a work in progress so keep an eye out!
+This is my first time undertaking a public project with multiple contributors, and I am happy to learn from the active UWaterloo community. This project is currently a work in progress, so keep an eye out for updates!
 
 ## Features
 
@@ -17,7 +17,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/WatWays.git
+    git clone https://github.com/raihanvaheed/WatWays.git
     cd WatWays
     ```
 
@@ -57,7 +57,7 @@ Contributions are welcome! If you have any improvements or bug fixes, please fol
 
 2. **Clone Your Fork**:
     ```sh
-    git clone https://github.com/yourusername/WatWays.git
+    git clone https://github.com/raihanvaheed/WatWays.git
     cd WatWays
     ```
 
@@ -78,9 +78,11 @@ Contributions are welcome! If you have any improvements or bug fixes, please fol
     - Go to the original repository and click on the "Pull Requests" tab.
     - Click on "New Pull Request" and select your branch.
 
+For detailed guidelines on contributing, please refer to our [Contributing](https://github.com/raihanvaheed/WatWays/wiki/Contributing) page in the Wiki.
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+WatWays is licensed under the MIT License. For more details, see the [License](https://github.com/raihanvaheed/WatWays/wiki/License) page in the Wiki.
 
 ## Acknowledgements
 
@@ -89,10 +91,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, feel free to reach out:
+If you have any questions, feel free to reach out!
 
-- **Email**: your.email@domain.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+For more details, please visit the [Contact](https://github.com/raihanvaheed/WatWays/wiki/Contact) page in the Wiki.
 
 ---
 
